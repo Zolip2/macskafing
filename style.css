@@ -1,0 +1,12 @@
+#bingus {
+    height: 13%;
+    width: 8%;
+    border-radius: 10%;
+    transition: height 0.1s, width 0.1s;
+    position: absolute;
+}
+
+#bingus:hover {
+    height: 15%;
+    width: 10%;
+}
